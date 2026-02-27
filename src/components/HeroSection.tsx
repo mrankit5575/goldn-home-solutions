@@ -23,9 +23,9 @@ const HeroSection = () => (
             <Phone className="h-5 w-5" /> Call Now
           </a>
         </Button>
-        <Button asChild variant="outline" size="lg" className="gap-2 text-base px-8 border-white text-white hover:bg-white/20 hover:text-white">
+        <Button asChild variant="outline" size="lg" className="gap-2 text-base px-8 bg-white/20 hover:text-white">
           <a href="#contact">
-            <CalendarCheck className="h-5 w-5" /> Book Service
+            <CalendarCheck className="h-5 w-5 text-black" /> Book Service
           </a>
         </Button>
       </div>
