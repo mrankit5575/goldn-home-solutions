@@ -6,37 +6,48 @@ const services = [
     icon: AirVent,
     title: "AC Repair & Installation",
     desc: "Expert split & window AC repair, gas refilling, installation and annual maintenance services.",
-    img: "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=600&q=80&fit=crop",
+    // img: "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=600&q=80&fit=crop",
+    img:"/ac.jpeg"
   },
   {
     icon: Refrigerator,
     title: "Refrigerator Repair",
     desc: "Quick diagnosis and repair of all refrigerator brands — cooling issues, compressor, thermostat and more.",
-    img: "https://images.unsplash.com/photo-1571175443880-49e1d25b2bc5?w=600&q=80&fit=crop",
+    // img: "https://images.unsplash.com/photo-1571175443880-49e1d25b2bc5?w=600&q=80&fit=crop",
+    img:"/fridge.jpeg"
+
   },
   {
     icon: WashingMachine,
     title: "Washing Machine Repair",
     desc: "Front-load & top-load washing machine repair — drum, motor, drainage and electronic issues.",
-    img: "https://images.unsplash.com/photo-1626806787461-102c1bfaaea1?w=600&q=80&fit=crop",
+    // img: "https://images.unsplash.com/photo-1626806787461-102c1bfaaea1?w=600&q=80&fit=crop",
+    img:"/wash.jpeg"
+
   },
   {
     icon: Wind,
     title: "Air Cooler Repair",
     desc: "Desert and personal cooler servicing — motor replacement, pump repair and full maintenance.",
-    img: "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=600&q=80&fit=crop",
+    // img: "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=600&q=80&fit=crop",
+    img:"https://5.imimg.com/data5/SELLER/Default/2021/3/NJ/DU/HF/47491114/duct-air-cooler-repairing-service.jpg"
+
   },
   {
     icon: GlassWater,
     title: "Water Dispenser Repair",
     desc: "Hot & cold water dispenser repair and servicing for homes and offices across Delhi NCR.",
-    img: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80&fit=crop",
+    // img: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&q=80&fit=crop",
+    img:"/water.jpeg"
+
   },
   {
     icon: Cpu,
     title: "All Home Electronics",
     desc: "Complete repair solutions for microwaves, geysers, inverters and other home electronics.",
-    img: "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=600&q=80&fit=crop",
+    // img: "https://images.unsplash.com/photo-1581092160562-40aa08e78837?w=600&q=80&fit=crop",
+    img:"https://t4.ftcdn.net/jpg/02/12/12/11/360_F_212121143_ucenfKpectJYMmXt9fw860yWIq79019k.jpg"
+
   },
 ];
 

@@ -61,7 +61,9 @@ const ContactSection = () => {
               <Phone className="h-5 w-5 text-primary mt-0.5 shrink-0" />
               <div>
                 <p className="font-semibold">Phone</p>
-                <a href="tel:9310912781" className="text-primary hover:underline">9310912781</a>
+                <a href="tel:9310912781" className="text-primary hover:underline">+91 92053 07098 </a>
+                <br />
+                <a href="tel:9310912781" className="text-primary hover:underline">+91 93109 12781</a>
               </div>
             </div>
             <div className="flex items-start gap-3">
