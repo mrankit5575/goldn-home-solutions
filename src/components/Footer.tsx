@@ -31,8 +31,22 @@ const Footer = () => (
       </div>
     </div>
     <div className="container mx-auto px-4 mt-8 pt-6 border-t border-background/20 text-center text-xs text-background/50">
-      © {new Date().getFullYear()} Goldn Enterprises. All rights reserved.
+    © {new Date().getFullYear()} Goldn Enterprises. All rights reserved.
+  
+    <div className="mt-2 flex items-center justify-center gap-2">
+      <span>Developed by</span>
+  
+      <a
+        href="https://avdevelopment.in/"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="flex items-center gap-1 hover:opacity-80 transition"
+      >
+        
+        <span className="font-medium text-white">AV Development</span>
+      </a>
     </div>
+  </div>
   </footer>
 );
 
