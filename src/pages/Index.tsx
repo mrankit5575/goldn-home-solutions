@@ -7,8 +7,7 @@ import ServiceAreaMap from "@/components/ServiceAreaMap";
 import CTABanner from "@/components/CTABanner";
 import ContactSection from "@/components/ContactSection";
 import Footer from "@/components/Footer";
-import FloatingButtons from "@/components/FloatingButtons";
-
+ 
 const Index = () => (
   <>
     <Navbar />
@@ -22,8 +21,7 @@ const Index = () => (
       <ContactSection />
     </main>
     <Footer />
-    <FloatingButtons />
-  </>
+   </>
 );
 
 export default Index;
